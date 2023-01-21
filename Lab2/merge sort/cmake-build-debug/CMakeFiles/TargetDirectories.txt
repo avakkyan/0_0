@@ -1,3 +1,0 @@
-C:/Users/5054671/labs/algo/Lab 2/merge sort/cmake-build-debug/CMakeFiles/merge_sort.dir
-C:/Users/5054671/labs/algo/Lab 2/merge sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/5054671/labs/algo/Lab 2/merge sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
