@@ -1,3 +1,0 @@
-C:/Users/5054671/labs/algo/Lab 2/entering sort/cmake-build-debug/CMakeFiles/2_task.dir
-C:/Users/5054671/labs/algo/Lab 2/entering sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/5054671/labs/algo/Lab 2/entering sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
